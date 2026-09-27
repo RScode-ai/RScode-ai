@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Rohit Sharma
 
-### Java Developer | Spring Boot | REST APIs | MySQL | DSA
+### Software Engineer | Java Developer | Spring Boot | REST APIs | MySQL | DSA
 
 I build practical backend applications with Java and Spring Boot, design REST APIs, work with MySQL, and regularly practice Data Structures & Algorithms.
 
