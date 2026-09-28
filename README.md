@@ -23,7 +23,7 @@ I'm a results-driven software engineer with a passion for building scalable, ent
 - Data Persistence & ACID Compliance
 
 **Frontend Integration**
-- JavaScript Integration with Backend Services
+- JavaScript and React Integration with Backend Services
 - Java Swing Desktop Applications
 - REST API Consumption
 
@@ -153,7 +153,7 @@ A modern, responsive personal portfolio website showcasing projects, skills, and
 | **Frameworks** | Spring Boot, Spring Data JPA, Spring MVC |
 | **Databases** | MySQL, JDBC, SQL Optimization |
 | **Architecture** | REST APIs, Microservices, MVC, Design Patterns |
-| **Frontend** | Java Swing, JavaScript, HTML/CSS |
+| **Frontend** | Java Swing, JavaScript,React vite, HTML/CSS |
 | **Tools** | Maven, Git, IntelliJ IDEA, MySQL Workbench |
 | **Concepts** | OOP, SOLID Principles, DSA, System Design |
 
