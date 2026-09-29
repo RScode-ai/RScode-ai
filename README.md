@@ -1,6 +1,6 @@
 <h1 align="center">👋 Hi, I'm Rohit Sharma</h1>
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&width=760&height=80&lines=Hi%2C+I'm+Rohit Sharma;Full-Stack+Developer;Java+%7C+Spring+Boot+%7C+React;Building+real-world+solutions" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&width=760&height=80&lines=Hi%2C;Full-Stack+Developer;Java+%7C+Spring+Boot+%7C+React;Building+real-world+solutions" alt="Typing SVG" />
 </div>
 
 <h1 align="center">🚀 Welcome to My GitHub Profile</h1>
