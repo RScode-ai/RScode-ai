@@ -1,9 +1,16 @@
-# 👋 Hi, I'm Rohit Sharma
+<div align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&width=760&height=80&lines=Hi%2C+I'm+Rohit Sharma;Full-Stack+Developer;Java+%7C+Spring+Boot+%7C+React;Building+real-world+solutions" alt="Typing SVG" />
+</div>
 
-### Full-Stack Software Engineer | Java & Spring Boot Specialist | Backend Architecture | REST APIs | Cloud-Ready Solutions
+<h1 align="center">🚀 Welcome to My GitHub Profile</h1>
 
----
-
+<p align="center">
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java" />
+  <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white" alt="Spring Boot" />
+  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
+  <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL" />
+</p>
 ## 💡 About Me
 
 I'm a results-driven software engineer with a passion for building scalable, enterprise-grade backend systems and full-stack applications. With expertise in **Java**, **Spring Boot**, and **database design**, I create production-ready solutions that solve real-world business problems. I'm committed to clean code, system design principles, and continuous learning in software architecture and distributed systems.
